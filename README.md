@@ -4,7 +4,6 @@ This project utilizes machine learning models to predict the feasibility of sola
 
 [Presentation Link](https://usfedu-my.sharepoint.com/:v:/g/personal/yadavg_usf_edu/EXwbC7wvSo5LiaU6Obk_kYQByXWKDb_7grCEV3q8PBTyQw?e=SVrFWQ)
 
-Presentation: 
 
 ### Business Context:
 
@@ -23,6 +22,11 @@ As the transition to renewable energy is growing, selecting optimal, cost-effect
 - _Cost Savings_: Spark’s distributed computing enables the processing of large amounts of data efficiently, helping to avoid costly investments in non-feasible locations. **Data visualizations** further enhance understanding of site potential, ensuring effective resource allocation.
 - _Accelerated Renewable Energy Expansion_: With the ability to process and analyze large datasets rapidly, we can speed up the identification and prioritization of solar sites, supporting California’s clean energy transition and contributing to national and global sustainability goals.
 - _Enhanced Economic and Environmental Alignment_: Using **big data** techniques, we balance economic considerations (maximizing ROI) with environmental sustainability, helping stakeholders meet renewable energy targets while adhering to ecological and regulatory standards.
+
+### Results
+
+<img width="655" alt="image" src="https://github.com/user-attachments/assets/5c7fd03b-02cc-472c-9f56-3fa8ee4d1cb3" />
+
 
 ## Group Members:
 - Umeaiman Yusuf Merchant
