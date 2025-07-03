@@ -25,6 +25,12 @@ As the transition to renewable energy is growing, selecting optimal, cost-effect
 
 ### Results
 
+With Categorical Variables:
+
+<img width="722" alt="image" src="https://github.com/user-attachments/assets/fbdf6357-b653-436b-b2c6-c204d49fa80c" />
+
+Without Categorical Variables:
+
 <img width="655" alt="image" src="https://github.com/user-attachments/assets/5c7fd03b-02cc-472c-9f56-3fa8ee4d1cb3" />
 
 
